@@ -1,0 +1,12 @@
+---
+layout: default
+img: sql.jpg
+category: Features
+title: Various Types of<br/>Approximate Queries
+description: |
+---
+* 10+ analytic/aggregate operations support
+* Complex aggregate queries support (including groups and joins)
+* Approximate query support for tabular/spatiotemporal data
+* Query processing with a given error-bound or response time
+* What-if queries on non-existing data with adjusted data distribution

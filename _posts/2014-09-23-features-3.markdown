@@ -1,0 +1,11 @@
+---
+layout: default
+img: viz.png
+category: Features
+title: Powerful Tools and<br/>Application Services
+description: |
+---
+* Visualization tools for exploratory data analysis
+* Target tables/attributes recommendation for automated ML model training
+* ML model migration support
+* Application services for demonstration in various business fields

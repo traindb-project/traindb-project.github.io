@@ -1,0 +1,11 @@
+---
+layout: default
+img: cloud.png
+category: Features
+title: Convenient User Environment
+description: |
+---
+* Data-driven ML model approach which can be trained without query history
+* Various DBMS data sources support
+* Approximate query answering in cloud/portable environments even with lost connection to DBMS
+* Incremental query processing for interactive user experience
