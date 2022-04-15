@@ -8,8 +8,8 @@ email: taewhi@etri.re.kr
 author: Taewhi Lee
 description: > # "Write an awesome description for your new site here. 
   TrainDB is a ML-based approximate query processing engine that aims to answer time-consuming analytical queries in a few seconds.
-copyright: 'Copyright &copy; 2021-2024 TrainDB project. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2021-2024 TrainDB Project. All Rights Reserved.'
+credits: 'This project is supported by <a href="https://www.iitp.kr">IITP</a> grant funded by the Korea government(MSIT) (No.2021-0-00231, Development of Approximate DBMS Query Technology to Facilitate Fast Query Processing for Exploratory Data Analysis)'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
