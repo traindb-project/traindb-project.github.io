@@ -27,6 +27,6 @@ social:
   - title: github
     url: https://github.com/traindb-project/traindb
   - title: documentation (eng)
-    url: https://traindb-project.github.io/traindb-doc/en
+    url: https://traindb-doc.readthedocs.io/en/latest
   - title: documentation (kor)
-    url: https://traindb-project.github.io/traindb-doc/ko
+    url: https://traindb-doc.readthedocs.io/ko/latest
