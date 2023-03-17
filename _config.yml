@@ -17,7 +17,7 @@ credits: 'This project is supported by <a href="https://www.iitp.kr">IITP</a> gr
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+  #permalink: pretty
 
 # ----------------------- #
 #   3rd Party Settings    #
